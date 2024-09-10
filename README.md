@@ -1,13 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nathan Curl
 ===================================================================================================================================
 
-Student and Aspiring Software Engineer
+Student and Software Engineer
 --------------------------------------
 
-I've always had a passion for learning and creating. Once I came to college and decided to major in Computer Science, these passions were realized in a way I never knew possible. Now I am using software development as a way to stimulate personal growth, while helping develop a more sustainable and equitable future for our society.
+I am a passionate software developer leveraging unique perspectives to create innovative, socially impactful tech solutions while fostering continuous growth and learning. I am committed to pushing the boundaries of technology to address real-world challenges by tackling every project with creative problem-solving skills and an unwavering commitment to excellence.
 
 * 🌍  I'm based in Colorado Springs, CO
-* ✉️  You can contact me at [nathanielcurl@gmail.com](mailto:nathanielcurl@gmail.com)
 * 🧠  I'm learning HTML, CSS, JS
 * 🤝  I'm open to collaborating on everything. I am always willing to learn something new or develop in a different way.
 * ⚡  I'm an avid reader and photographer! Also, after receiving my uncle's old clubs, I have made it a goal of mine to become a decent golfer.
